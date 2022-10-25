@@ -5,3 +5,13 @@
     padding-left: 30px;
     padding-right: 30px;
 }
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.header-links {
+    display:flex;
+}
