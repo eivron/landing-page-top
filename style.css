@@ -128,4 +128,31 @@ a {
     border-radius: 10px;
     width: 13vw;
     height: 3.5vh;
+    border-color: #F9FAF8;
+    border-style: solid;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    font-size: 20px;
+}
+.call-to-action-background {
+    display: flex;
+    max-height: 10vh;
+    max-width: 70vw;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 35px;
+    border-radius: 5px;
+}
+.bg {
+    min-height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cta-heading {
+    color:#F9FAF8;
+}
+.p-heading {
+    color: #F9FAF8;
 }
