@@ -27,3 +27,30 @@ a {
 .hero-image {
     width: 50vw;
 }
+.random-information-section {
+    display: flex;
+    flex-direction: column;
+}
+.random-information-icons {
+    display: flex;
+}
+.icon-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icon-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icon-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icon-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
