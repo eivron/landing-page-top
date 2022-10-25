@@ -124,3 +124,8 @@ a {
     padding-right: 25px;
     font-weight: 700;
 }
+.cta-button {
+    border-radius: 10px;
+    width: 13vw;
+    height: 3.5vh;
+}
