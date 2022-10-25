@@ -58,6 +58,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 5vh;
 }
 .random-information-icons {
     display: flex;
