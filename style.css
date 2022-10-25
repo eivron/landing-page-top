@@ -56,9 +56,9 @@ a {
 }
 .random-information-section {
     display: flex;
-    flex-direction: column;
     align-items: center;
     padding-top: 5vh;
+    justify-content: space-evenly;
 }
 .random-information-icons {
     display: flex;
@@ -67,22 +67,31 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 15vw;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .icon-2 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 15vw;
 }
 .icon-3 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 15vw;
 }
 .icon-4 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 15vw;
 }
 .icon {
-    max-width: 100px;
+    max-width: 175px;
+}
+.icon1 {
+    width: 175px;
 }
