@@ -68,30 +68,38 @@ a {
     flex-direction: column;
     align-items: center;
     width: 15vw;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding: 0px 20px 0px 20px;
 }
 .icon-2 {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 15vw;
+    padding: 0px 20px 0px 20px;
 }
 .icon-3 {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 15vw;
+    padding: 0px 20px 0px 20px;
 }
 .icon-4 {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 15vw;
+    padding: 0px 20px 0px 20px;
 }
 .icon {
     max-width: 175px;
 }
 .icon1 {
     width: 175px;
+}
+.random-information-section-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
 }
