@@ -59,6 +59,7 @@ a {
     align-items: center;
     padding-top: 5vh;
     justify-content: space-evenly;
+    padding-bottom: 5vh;
 }
 .random-information-icons {
     display: flex;
@@ -102,4 +103,24 @@ a {
     justify-content: center;
     font-size: 36px;
     font-weight: bolder;
+}
+.inspiring-quote-section {
+    background-color: #E5E7EB;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inspiring-quote-text {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    max-width: 70vw;
+}
+.inspiring-quote-creator {
+    display: flex;
+    align-self: end;
+    padding-right: 25px;
+    font-weight: 700;
 }
